@@ -228,27 +228,6 @@ What is the total amount of unpaid fines?
 
 Which members borrowed the most books?
 
-🧩 Database Relationships
-
-The main relationships are:
-
-Authors ────────< Books >──────── Categories
-                     |
-                     |
-                 Borrowings
-                /     |                     /      |                 Members  Librarians  Books
-                     |
-                   Fines
-
-Foreign-key relationships are used to maintain connections between related records.
-
-📁 Repository Structure
-
-library-management-sql/
-│
-├── library.sql
-└── README.md
-
 🚀 How to Run the Project
 
 Install MySQL and MySQL Workbench.
