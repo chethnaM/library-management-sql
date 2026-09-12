@@ -29,12 +29,9 @@ MySQL Workbench
 SQL
 
 Relational Database Management System (RDBMS)
+## 🗺️ Database Schema
 
-🗄️ Database
-
-The project creates a database named:
-
-library_management
+![Library Database Schema](library.jpeg)
 
 The SQL script contains the database creation, table definitions, sample data, and analysis queries.
 
